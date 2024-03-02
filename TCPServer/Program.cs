@@ -1,6 +1,7 @@
 ﻿using System.Net;
 using System.Net.Sockets;
 using System.Text;
+using Newtonsoft.Json;
 internal class Program
 {
     private static void Main(string[] args)
@@ -36,8 +37,16 @@ internal class Program
             string message = Encoding.ASCII.GetString(data,0,bytes);
             Console.WriteLine($"Recieved: {message}");
 
+            var signInRequest = JsonConvert.DeserializeObject<SignInRequest>(message);
+            Console.WriteLine($"email is: {signInRequest.email}, password is: {signInRequest.password}");
+
             //Send a response back to the client
-            byte[] response = Encoding.ASCII.GetBytes("Hello from the server");
+            byte[] response = null;
+            if(signInRequest.password != "Aqeelah"){
+            response = Encoding.ASCII.GetBytes("Invalid credentials, please supply a valid one");
+            }else{
+            response = Encoding.ASCII.GetBytes("Valid credentials, please proceed");
+            }
             stream.Write(response,0,response.Length);
 
             //Close the connection
@@ -46,5 +55,11 @@ internal class Program
         }catch(Exception e){
             Console.WriteLine(e.Message);
         }
+        finally{
+            //Stop listening to new clients
+            server?.Stop();
+        }
     }
 }
+
+public record SignInRequest(string email, string password);

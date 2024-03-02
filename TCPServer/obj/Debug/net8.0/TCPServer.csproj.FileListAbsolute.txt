@@ -1,0 +1,17 @@
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\bin\Debug\net8.0\TCPServer.exe
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\bin\Debug\net8.0\TCPServer.deps.json
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\bin\Debug\net8.0\TCPServer.runtimeconfig.json
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\bin\Debug\net8.0\TCPServer.dll
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\bin\Debug\net8.0\TCPServer.pdb
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\obj\Debug\net8.0\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\obj\Debug\net8.0\TCPServer.AssemblyInfoInputs.cache
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\obj\Debug\net8.0\TCPServer.AssemblyInfo.cs
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\obj\Debug\net8.0\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\obj\Debug\net8.0\TCPServer.dll
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\obj\Debug\net8.0\refint\TCPServer.dll
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\obj\Debug\net8.0\TCPServer.pdb
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\obj\Debug\net8.0\TCPServer.genruntimeconfig.cache
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPServer\obj\Debug\net8.0\ref\TCPServer.dll
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TcpServer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TcpServer\obj\Debug\net8.0\TCPServer.csproj.AssemblyReference.cache
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TcpServer\obj\Debug\net8.0\TCPServer.csproj.Up2Date

@@ -1,5 +1,6 @@
 ﻿using System.Net.Sockets;
 using System.Text;
+using Newtonsoft.Json;
 
 internal class Program
 {
@@ -13,7 +14,12 @@ internal class Program
         NetworkStream stream = client.GetStream();
 
         //Send a message to the server
-        string message = "Hello from the client!";
+        var signInRequest = new {
+            email = "olasupoa.o@gmail.com",
+            password = "Aqeelah"
+        };
+        // string message = "Hello from the client!";
+        string message = JsonConvert.SerializeObject(signInRequest);
         byte[] data = Encoding.ASCII.GetBytes(message);
         stream.Write(data,0,data.Length);
         Console.WriteLine($"Sent: {message}");

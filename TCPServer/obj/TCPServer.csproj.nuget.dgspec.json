@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TCPServer\\TCPServer.csproj": {}
+    "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TcpServer\\TCPServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TCPServer\\TCPServer.csproj": {
+    "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TcpServer\\TCPServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TCPServer\\TCPServer.csproj",
+        "projectUniqueName": "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TcpServer\\TCPServer.csproj",
         "projectName": "TCPServer",
-        "projectPath": "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TCPServer\\TCPServer.csproj",
+        "projectPath": "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TcpServer\\TCPServer.csproj",
         "packagesPath": "C:\\Users\\Abdlateef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TCPServer\\obj\\",
+        "outputPath": "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TcpServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abdlateef\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

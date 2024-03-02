@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bl+O7jeqGUvPIfWpNlL4xu8PNOMNxcYBjy+vKsCnwZoLfjjrcFGHhgeLlZ0Apl14O8oy3BH7rvamk4UTJweqCg==",
+  "dgSpecHash": "Wa9sfB4RMDJ4SY3KUpm+q1YXeb/UNgVwunZKCGKfRsY6fSL4tOBBPDm1dq6qfHcsKSz9BXTMpW2iB9spu8kSPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TCPClient\\TCPClient.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TcpClient\\TCPClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdlateef\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

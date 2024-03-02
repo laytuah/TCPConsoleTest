@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PoZX5AeTjVmTIePiPuy6p6oG4hDdyqR2Y9oWX85B3URVn4yenWQ4DjRn9D2xXVtcZu7BMUoXNMRsmnuAsLnIMw==",
+  "dgSpecHash": "B8q1DJl1DMiKGJtgCFBD4J8Iji078pzC+uysoZh1M7eUrEvuZEM54gAFqP7c3LQKdZBQryYjzfvZOlzPQOaYGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TCPServer\\TCPServer.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Abdlateef\\source\\repos\\TCPConsoleTest\\TcpServer\\TCPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abdlateef\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

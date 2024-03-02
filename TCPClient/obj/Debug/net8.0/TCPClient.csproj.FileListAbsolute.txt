@@ -1,0 +1,17 @@
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\bin\Debug\net8.0\TCPClient.exe
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\bin\Debug\net8.0\TCPClient.deps.json
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\bin\Debug\net8.0\TCPClient.runtimeconfig.json
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\bin\Debug\net8.0\TCPClient.dll
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\bin\Debug\net8.0\TCPClient.pdb
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\obj\Debug\net8.0\TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\obj\Debug\net8.0\TCPClient.AssemblyInfoInputs.cache
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\obj\Debug\net8.0\TCPClient.AssemblyInfo.cs
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\obj\Debug\net8.0\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\obj\Debug\net8.0\TCPClient.dll
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\obj\Debug\net8.0\refint\TCPClient.dll
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\obj\Debug\net8.0\TCPClient.pdb
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\obj\Debug\net8.0\TCPClient.genruntimeconfig.cache
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\obj\Debug\net8.0\ref\TCPClient.dll
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\obj\Debug\net8.0\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Abdlateef\source\repos\TCPConsoleTest\TCPClient\obj\Debug\net8.0\TCPClient.csproj.Up2Date
